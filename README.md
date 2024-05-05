@@ -30,4 +30,4 @@
 
 ## Redux {Introduction, React-Context vs Redux, How Redux Works, Working with Redux, React with Redux}
 
-## Ch-57-58: Redux ToolKit {Need, Working with Toolkit}
+## Redux ToolKit {Need, Working with Toolkit}
